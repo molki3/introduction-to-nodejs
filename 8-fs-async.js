@@ -18,3 +18,8 @@ fs.readFile('./7-data/first.txt', 'utf-8', (error, data) => {
     });
 
 });
+
+// The callback function is going to be executed after the write happens
+fs.writeFile("7-data/third.txt", "text for third.txt", err => {
+    if(err) console.log("Error occurred when writing to the file")
+})

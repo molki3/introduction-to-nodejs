@@ -1,1 +1,1 @@
-hi
+text for third.txt

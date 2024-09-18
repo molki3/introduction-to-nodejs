@@ -1,6 +1,9 @@
 /*
 NPM: NODE PACKAGE MANAGER
 This commans is gonna search the modules in npm website and will install them.
+1. Online Repository
+2. Command-line utility
+2. Package manager for NodeJS
 
 Install:
 - OPC1: npm i colors
